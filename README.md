@@ -34,7 +34,7 @@ Of course, you can always change this value if you want.
 ###we are connecting to a database called img-upload.
 
 
-# users table:
+# images table:
 Create this database and create a table called users with the following fields:
 
 CREATE TABLE `images` (
